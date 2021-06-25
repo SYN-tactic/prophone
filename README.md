@@ -1,16 +1,9 @@
 # pro_phone_challenge
 
-A new Flutter project.
+Flutter based project for the ProPhone code challenge.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Make sure your editor [is setup](https://flutter.dev/docs/get-started/editor) to run Flutter apps.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check the "Run the app" section on the [test drive page](https://flutter.dev/docs/get-started/test-drive) for how to run the app locally with your IDE.
